@@ -1,7 +1,7 @@
 body {
     background-color:rgb(35, 29, 75);
-    margin: 10%;
-    padding: 10%;
+    margin: 0%;
+    padding: 0%;
 }
 h1 {
     color: rgb(172, 203, 231);
@@ -11,27 +11,27 @@ h1 {
 h2 {
     color:cornflowerblue;
     font-family: Courier;
-    font-size: 100%;
+    font-size: 150%;
 }
 h3 {
     color: deepskyblue;
     font-family: Courier;
-    font-size: 100%;
+    font-size: 150%;
 }
 h4 {
     color:aquamarine;
     font-family: Courier;
-    font-size: 100%;
+    font-size: 120%;
 }
 h5 {
     color:antiquewhite;
     font-family: Courier;
-    font-size: 100%;
+    font-size: 120%;
 }
 h6 {
     color:honeydew;
     font-family: Courier;
-    font-size: 100%;
+    font-size: 110%;
 }
 p {
     color:aliceblue;
